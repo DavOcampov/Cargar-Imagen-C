@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\bin\Debug\Proyecto_img.exe.config
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\bin\Debug\Proyecto_img.exe
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\bin\Debug\Proyecto_img.pdb
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.Form1.resources
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.Properties.Resources.resources
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.exe
+C:\Users\David\source\repos\Proyecto_img\Proyecto_img\obj\Debug\Proyecto_img.pdb
